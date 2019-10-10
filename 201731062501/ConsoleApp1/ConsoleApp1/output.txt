@@ -1,0 +1,13 @@
+characters:159
+words:15
+lines:4
+health ，频率：2
+knowledge ，频率：2
+plan ，频率：2
+good ，频率：1
+over ，频率：1
+power ，频率：1
+spring ，频率：1
+srping ，频率：1
+starts ，频率：1
+wealth ，频率：1
