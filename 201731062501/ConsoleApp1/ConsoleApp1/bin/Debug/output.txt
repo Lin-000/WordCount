@@ -1,8 +1,59 @@
-字符总数：245
-单词总数：35
-总的行数：5
-单词：health ，出现的频率：3
-单词：knowledge ，出现的频率：3
-单词：nice ，出现的频率：3
-单词：over ，出现的频率：3
-单词：seed ，出现的频率：3
+字符总数：550
+单词总数：50
+总的行数：7
+单词：jaguar ，出现的频率：3
+单词：sheep ，出现的频率：2
+单词：there ，出现的频率：2
+单词：animal ，出现的频率：1
+单词：anyone ，出现的频率：1
+单词：cattle ，出现的频率：1
+单词：cattle,，出现的频率：1
+单词：could ，出现的频率：1
+单词：currently ，出现的频率：1
+单词：deer ，出现的频率：1
+词组：jaguar endangered animal said that ，出现的频率：1
+词组：endangered animal said that there ，出现的频率：1
+词组：animal said that there less ，出现的频率：1
+词组：said that there less than ，出现的频率：1
+词组：that there less than jaguars ，出现的频率：1
+词组：there less than jaguars world ，出现的频率：1
+词组：less than jaguars world currently ，出现的频率：1
+词组：than jaguars world currently which ，出现的频率：1
+词组：jaguars world currently which living ，出现的频率：1
+词组：world currently which living national ，出现的频率：1
+词组：currently which living national peru ，出现的频率：1
+词组：which living national peru order ，出现的频率：1
+词组：living national peru order protect ，出现的频率：1
+词组：national peru order protect this ，出现的频率：1
+词组：peru order protect this jaguar,，出现的频率：1
+词组：order protect this jaguar,peruvians ，出现的频率：1
+词组：protect this jaguar,peruvians singled ，出现的频率：1
+词组：this jaguar,peruvians singled pitch ，出现的频率：1
+词组：jaguar,peruvians singled pitch land ，出现的频率：1
+词组：peruvians singled pitch land where ，出现的频率：1
+词组：singled pitch land where there ，出现的频率：1
+词组：pitch land where there herds ，出现的频率：1
+词组：land where there herds cattle,，出现的频率：1
+词组：where there herds cattle,sheep ，出现的频率：1
+词组：there herds cattle,sheep deer ，出现的频率：1
+词组：herds cattle,sheep deer jaguar ，出现的频率：1
+词组：cattle,sheep deer jaguar anyone ，出现的频率：1
+词组：sheep deer jaguar anyone visited ，出现的频率：1
+词组：deer jaguar anyone visited praised ，出现的频率：1
+词组：jaguar anyone visited praised heaven ，出现的频率：1
+词组：anyone visited praised heaven tiger"，出现的频率：1
+词组：visited praised heaven tiger"however,，出现的频率：1
+词组：praised heaven tiger"however,strange ，出现的频率：1
+词组：heaven tiger"however,strange enough,，出现的频率：1
+词组：tiger"however,strange enough,ever ，出现的频率：1
+词组：however,strange enough,ever seen ，出现的频率：1
+词组：strange enough,ever seen jaguar ，出现的频率：1
+词组：enough,ever seen jaguar prey ，出现的频率：1
+词组：ever seen jaguar prey cattle ，出现的频率：1
+词组：seen jaguar prey cattle sheep ，出现的频率：1
+词组：jaguar prey cattle sheep what ，出现的频率：1
+词组：prey cattle sheep what could ，出现的频率：1
+词组：cattle sheep what could lying ，出现的频率：1
+词组：sheep what could lying house ，出现的频率：1
+词组：what could lying house eating ，出现的频率：1
+词组：could lying house eating sleeping ，出现的频率：1
