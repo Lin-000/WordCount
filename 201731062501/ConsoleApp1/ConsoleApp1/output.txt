@@ -1,13 +1,13 @@
-characters:159
-words:15
-lines:4
-health ，频率：2
-knowledge ，频率：2
-plan ，频率：2
-good ，频率：1
-over ，频率：1
-power ，频率：1
-spring ，频率：1
-srping ，频率：1
-starts ，频率：1
-wealth ，频率：1
+字符总数：159
+单词总数：15
+总的行数：4
+单词：health ，出现的频率：2
+单词：knowledge ，出现的频率：2
+单词：plan ，出现的频率：2
+单词：good ，出现的频率：1
+单词：over ，出现的频率：1
+单词：power ，出现的频率：1
+单词：spring ，出现的频率：1
+单词：srping ，出现的频率：1
+单词：starts ，出现的频率：1
+单词：wealth ，出现的频率：1

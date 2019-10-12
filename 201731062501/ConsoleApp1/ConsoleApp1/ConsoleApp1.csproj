@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="charactersNum.cs" />
+    <Compile Include="CountPhrase.cs" />
     <Compile Include="MaxFrequence.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

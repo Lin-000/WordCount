@@ -4,6 +4,3 @@ D:\test\WordCount\201731062501\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
 D:\test\WordCount\201731062501\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
 D:\test\WordCount\201731062501\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 D:\test\WordCount\201731062501\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
-D:\test\WordCount\201731062501\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
-D:\test\WordCount\201731062501\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.CodeAnalysisLog.xml
-D:\test\WordCount\201731062501\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.lastcodeanalysissucceeded
