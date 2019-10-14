@@ -79,8 +79,22 @@ namespace ConsoleApp1
                     if (string.Equals(args[i], "-n"))
                         n = int.Parse(args[i + 1]);
                 }
-            } 
-            string text = File.ReadAllText(inputPath).ToLower();                                          // 读取文本内容并全部转成小写字母
+            }
+            string text = "";
+            try
+            {
+                text = File.ReadAllText(inputPath).ToLower(); // 读取文本内容并全部转成小写字母
+            }
+            catch (IOException e)
+            {
+                Console.WriteLine("文件路径不正确，请检查，并重新输入！");
+
+            }
+            finally
+            {
+                text = File.ReadAllText(inputPath).ToLower(); // 读取文本内容并全部转成小写字母
+            }
+         
             int ch_num = GetCharactersNum.CharactersNum(text);                                                             // 所有字符总数
             List<string> wordList = GetWordsNum.WordsNum(text);                                                       // 字符串中所有单词集合（包括重复的单词）
             Dictionary<string, int> d = GetMaxFrequence.MaxFrequence(WordFrequence(wordList), n);                         // 最高频率的10个单词及其出现频率

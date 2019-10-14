@@ -14,9 +14,8 @@ namespace ConsoleApp1.Tests
     {
         [TestMethod()]
         public void WordsGroupsTest()
-
         {
-            string wordFrequenceTest = File.ReadAllText(@"D:\test\WordCount\201731062501\ConsoleApp1\ConsoleApp1\bin\Debug\test.txt");
+           string wordFrequenceTest = File.ReadAllText(@"D:\test\WordCount\201731062501\ConsoleApp1\ConsoleApp1\bin\Debug\test.txt");
             List<string> wordList = GetWordsNum.WordsNum(wordFrequenceTest);
             Dictionary<string, int> wordsGroup = CountPhrase.WordsGroups(wordList,3);
             foreach (KeyValuePair<string, int> kvp in wordsGroup)
